@@ -10,7 +10,7 @@ while count < array.length do
 elsif return max_value
   end
     count+=1
-  end 
+  end
   puts max_value
   end
   find_max_value
